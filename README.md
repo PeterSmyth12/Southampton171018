@@ -5,4 +5,4 @@ The materials will be uploaded by 14th October.
 
 The materials include Notes and Slides as well as Python code files and Jupyter Notebooks.
 
-You should download all of the materials onto the PC/Laptop you will be using for the course.
+You should download all of the materials (Southampton.zip) and unzip them onto the PC/Laptop you will be using for the course.
